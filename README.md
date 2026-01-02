@@ -1,5 +1,5 @@
 # Zhu_V1_interlaminar-signal-flow
-This repository contains the custom analysis functions supporting Zhu, Oh, Trepka, Chen & Moore, 2024.
+This repository contains the custom analysis functions supporting Zhu, Oh, Trepka, Chen & Moore, 2024 https://doi.org/10.7554/eLife.103255.
 
 ./Figure 2/bo_modulation_index.m plot boder ownership modulation index, for each recording session, the histogram and scatter plot of individual neuron against its recorded cortical depth.
 
